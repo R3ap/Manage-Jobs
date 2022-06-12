@@ -1,0 +1,17 @@
+C:\Users\vongarrel_david\Code\Manage-Customers\Manage-Customers\Manage-Customers\bin\Debug\net6.0-windows\Manage-Customers.exe
+C:\Users\vongarrel_david\Code\Manage-Customers\Manage-Customers\Manage-Customers\bin\Debug\net6.0-windows\Manage-Customers.deps.json
+C:\Users\vongarrel_david\Code\Manage-Customers\Manage-Customers\Manage-Customers\bin\Debug\net6.0-windows\Manage-Customers.runtimeconfig.json
+C:\Users\vongarrel_david\Code\Manage-Customers\Manage-Customers\Manage-Customers\bin\Debug\net6.0-windows\Manage-Customers.dll
+C:\Users\vongarrel_david\Code\Manage-Customers\Manage-Customers\Manage-Customers\bin\Debug\net6.0-windows\Manage-Customers.pdb
+C:\Users\vongarrel_david\Code\Manage-Customers\Manage-Customers\Manage-Customers\obj\Debug\net6.0-windows\Manage-Customers.csproj.AssemblyReference.cache
+C:\Users\vongarrel_david\Code\Manage-Customers\Manage-Customers\Manage-Customers\obj\Debug\net6.0-windows\Manage_Customers.FrmCustomerOverview.resources
+C:\Users\vongarrel_david\Code\Manage-Customers\Manage-Customers\Manage-Customers\obj\Debug\net6.0-windows\Manage-Customers.csproj.GenerateResource.cache
+C:\Users\vongarrel_david\Code\Manage-Customers\Manage-Customers\Manage-Customers\obj\Debug\net6.0-windows\Manage-Customers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vongarrel_david\Code\Manage-Customers\Manage-Customers\Manage-Customers\obj\Debug\net6.0-windows\Manage-Customers.AssemblyInfoInputs.cache
+C:\Users\vongarrel_david\Code\Manage-Customers\Manage-Customers\Manage-Customers\obj\Debug\net6.0-windows\Manage-Customers.AssemblyInfo.cs
+C:\Users\vongarrel_david\Code\Manage-Customers\Manage-Customers\Manage-Customers\obj\Debug\net6.0-windows\Manage-Customers.csproj.CoreCompileInputs.cache
+C:\Users\vongarrel_david\Code\Manage-Customers\Manage-Customers\Manage-Customers\obj\Debug\net6.0-windows\Manage-Customers.dll
+C:\Users\vongarrel_david\Code\Manage-Customers\Manage-Customers\Manage-Customers\obj\Debug\net6.0-windows\refint\Manage-Customers.dll
+C:\Users\vongarrel_david\Code\Manage-Customers\Manage-Customers\Manage-Customers\obj\Debug\net6.0-windows\Manage-Customers.pdb
+C:\Users\vongarrel_david\Code\Manage-Customers\Manage-Customers\Manage-Customers\obj\Debug\net6.0-windows\Manage-Customers.genruntimeconfig.cache
+C:\Users\vongarrel_david\Code\Manage-Customers\Manage-Customers\Manage-Customers\obj\Debug\net6.0-windows\ref\Manage-Customers.dll
